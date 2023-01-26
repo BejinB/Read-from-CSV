@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+To write a python program for read from -CSV
 ## ALGORITHM:
 Step 1:
 Import pandas library using import statement.
